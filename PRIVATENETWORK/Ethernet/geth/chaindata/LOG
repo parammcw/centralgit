@@ -1,0 +1,20 @@
+=============== Nov 14, 2022 (IST) ===============
+16:56:28.040711 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:56:28.252787 db@open opening
+16:56:28.253681 version@stat F·[] S·0B[] Sc·[]
+16:56:28.345412 db@janitor F·2 G·0
+16:56:28.345522 db@open done T·92.681167ms
+16:56:29.227508 db@close closing
+16:56:29.227604 db@close done T·93.402µs
+=============== Nov 14, 2022 (IST) ===============
+17:07:54.134191 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:07:54.134368 version@stat F·[] S·0B[] Sc·[]
+17:07:54.134396 db@open opening
+17:07:54.134462 journal@recovery F·1
+17:07:54.140356 journal@recovery recovering @1
+17:07:54.191408 memdb@flush created L0@2 N·11 S·635B "HM\xcd..\x1b\x1c\n,v4":"r\x00\x00..\x1b\x1c\n,v6"
+17:07:54.198915 version@stat F·[1] S·635B[635B] Sc·[0.25]
+17:07:54.384733 db@janitor F·3 G·0
+17:07:54.384813 db@open done T·250.374207ms
+17:30:37.041495 db@close closing
+17:30:37.053089 db@close done T·11.590012ms
